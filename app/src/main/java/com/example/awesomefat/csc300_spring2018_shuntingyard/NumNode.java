@@ -14,7 +14,8 @@ public class NumNode extends Node
         this.payload = payload;
     }
 
-    public int getPayload() {
+    public int getPayload()
+    {
         return payload;
     }
 }
